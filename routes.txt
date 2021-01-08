@@ -1,0 +1,12 @@
+# GET
+http://localhost/crud_store/pessoa/show.php
+http://localhost/crud_store/pessoa/show.php?id
+
+# POST
+http://localhost/crud_store/pessoa/create.php
+
+# PATCH
+http://localhost/crud_store/pessoa/update.php?id
+
+# DELETE
+http://localhost/crud_store/pessoa/delete.php?id
